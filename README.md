@@ -1,2 +1,3 @@
-# The-sparks-Foundation
-I will be completing the tasks given by The Sparks Foundation here.
+# The-sparks-Foundation Task 1
+Simple Linear regression model
+Our task is to build a simple linear regression model to eastablish a relationship between a student's scores and the numbe of hours he studied. 
